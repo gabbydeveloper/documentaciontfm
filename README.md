@@ -83,9 +83,9 @@ Este enfoque sigue las recomendaciones de Pressman (2010) para proyectos de mode
 
 ## 👨‍🎓 Autores
 
-Naranjo Rodríguez Laura Vanessa  
-Párraga Castro María Magdalena  
-Zapata Díaz María Gabriela
+Naranjo Rodríguez Laura Vanessa.
+Párraga Castro María Magdalena.
+Zapata Díaz María Gabriela.
 
 Máster en Ingeniería de Software / Desarrollo de Sistemas Informáticos  
 

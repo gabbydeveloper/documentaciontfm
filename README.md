@@ -18,8 +18,8 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 
 | Documento | Descripción |
 |-----------|-------------|
-| [📄 Ejemplo1.pdf](./docs/Ejemplo1.pdf) | Memoria completa del TFM (contexto, estado del arte, metodología, resultados y conclusiones). |
-| [📊 Ejemplo2.pdf](./docs/Ejemplo2.pdf) | Detalle técnico de la migración a microservicios con Java 21 y Spring Boot. |
+| [📄 Ejemplo1.pdf](./docs/Ejemplo1.pdf) | Ejemplo 1. |
+| [📊 Ejemplo2.pdf](./docs/Ejemplo2.pdf) | Ejemplo 2. |
 
 > 📌 *Los documentos están alojados en la carpeta `/docs` y se abren directamente en el navegador o se descargan según la configuración de GitHub.*
 

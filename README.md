@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo_geco_transparente.png" alt="Logo Geco" width="200">
+  <img src="logo_geco_transparente.png" alt="Logo Geco" width="400">
 </p>
 
 # 📘 Reingeniería integral del ERP Geco mediante una arquitectura moderna y metodologías híbridas para la optimización de procesos y experiencia de usuario

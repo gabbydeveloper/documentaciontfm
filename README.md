@@ -18,11 +18,8 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 
 | Documento | Descripción |
 |-----------|-------------|
-| [📄 Memoria_TFM_Geco.pdf](./docs/Memoria_TFM_Geco.pdf) | Memoria completa del TFM (contexto, estado del arte, metodología, resultados y conclusiones). |
-| [📊 Anexo_Arquitectura_Microservicios.pdf](./docs/Anexo_Arquitectura_Microservicios.pdf) | Detalle técnico de la migración a microservicios con Java 21 y Spring Boot. |
-| [🎨 Anexo_UX_UI_Angular.pdf](./docs/Anexo_UX_UI_Angular.pdf) | Análisis de experiencia de usuario y diseño responsivo con Angular 21. |
-| [🔄 Anexo_Metodologia_Hibrida.pdf](./docs/Anexo_Metodologia_Hibrida.pdf) | Descripción del enfoque híbrido (cascada para análisis AS-IS + Scrum para desarrollo). |
-| [📊 Presentacion_TFM_Geco.pdf](./docs/Presentacion_TFM_Geco.pdf) | Presentación resumen del proyecto. |
+| [📄 Ejemplo1.pdf](./docs/Ejemplo1.pdf) | Memoria completa del TFM (contexto, estado del arte, metodología, resultados y conclusiones). |
+| [📊 Ejemplo2.pdf](./docs/Ejemplo2.pdf) | Detalle técnico de la migración a microservicios con Java 21 y Spring Boot. |
 
 > 📌 *Los documentos están alojados en la carpeta `/docs` y se abren directamente en el navegador o se descargan según la configuración de GitHub.*
 
@@ -83,9 +80,9 @@ Este enfoque sigue las recomendaciones de Pressman (2010) para proyectos de mode
 
 ## 👨‍🎓 Autores
 
-Naranjo Rodríguez Laura Vanessa.
-Párraga Castro María Magdalena.
-Zapata Díaz María Gabriela.
+- Naranjo Rodríguez Laura Vanessa
+- Párraga Castro María Magdalena
+- Zapata Díaz María Gabriela
 
 Máster en Ingeniería de Software / Desarrollo de Sistemas Informáticos  
 

@@ -18,8 +18,7 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 
 | Documento | Descripción |
 |-----------|-------------|
-| [🗓️ Ejemplo1.pdf](./docs/Ejemplo1.pdf) | Ejemplo 1. |
-| [🗓️ Ejemplo2.pdf](./docs/Ejemplo2.pdf) | Ejemplo 2. |
+| [🗓️ 04_Revisión_de_seguridad_AS-IS.pdf](./docs/04_Revisión_de_seguridad_AS-IS.pdf) | Ejemplo 1. |
 
 > 📌 *Los documentos están alojados en la carpeta `/docs` y se abren directamente en el navegador o se descargan según la configuración de GitHub.*
 

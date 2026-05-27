@@ -18,7 +18,6 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 
 | Documento | Descripción |
 |-----------|-------------|
-| [⌛ 00_Reingeniería Geco_Cronograma_baseline.pdf](./docs/00_Reingeniería%20Geco_Cronograma_baseline.pdf) | Gráfico Gantt del cronograma base |
 | [🧾 01_Inicio_y_planificación_del_proyecto.pdf](./docs/01_Inicio_y_planificación_del_proyecto.pdf) | Inicio y planificación del proyecto |
 | [🧾 02_Levantamiento_arquitectura_tecnológica_AS-IS.pdf](./docs/02_Levantamiento_arquitectura_tecnológica_AS-IS.pdf) | Levantamiento de la arquitectura AS-IS |
 | [🧾 04_Revisión_de_seguridad_AS-IS.pdf](./docs/04_Revisión_de_seguridad_AS-IS.pdf) | Revisión de la seguridad AS-IS |

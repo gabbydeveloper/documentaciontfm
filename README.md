@@ -26,10 +26,19 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 | [🧾 05_Análisis_del_modelo_de_datos_AS-IS.pdf](./docs/05_Análisis_del_modelo_de_datos_AS-IS.pdf) | Análisis del modelo de datos AS-IS |
 | DOCUMENTOS MÓDULO PRODUCTOS|
 | [🧾 Análisis_funcional_AS-IS_-_módulo_Productos.pdf](./docs/por_modulo/productos/Análisis_funcional_AS-IS_-_módulo_Productos.pdf) | Análisis funcional AS-IS del módulo de Productos |
+| [🧾 Análisis_UX-UI_AS-IS_-_Productos.pdf](./docs/por_modulo/productos/Análisis_UX-UI_AS-IS_-_Productos.pdf)|Análisis UX-UI AS-IS del módulo de Productos|
+| [🧾 Funcionalidades_e_historias_de_usuario_de_Productos.pdf](./docs/por_modulo/productos/Funcionalidades_e_historias_de_usuario_de_Productos.pdf)|Funcionalidades e historias de usuario del módulo de Productos|
+| [🧾 Heurísticas_de_Nielsen_por_pantalla_-_Productos.pdf](./docs/por_modulo/productos/Heurísticas_de_Nielsen_por_pantalla_-_Productos.pdf)|Heurísticas de Nielsen por pantalla del módulo de Productos|
 | DOCUMENTOS MÓDULO PROVEEDORES|
 | [🧾 Análisis_funcional_AS-IS_-_módulo_Proveedores.pdf](./docs/por_modulo/proveedores/Análisis_funcional_AS-IS_-_módulo_Proveedores.pdf) | Análisis funcional AS-IS del módulo Proveedores |
+| [🧾 Análisis_UX-UI_AS-IS_-_Proveedores.pdf](./docs/por_modulo/proveedores/Análisis_UX-UI_AS-IS_-_Proveedores.pdf)| Análisis UX-UI AS-IS del módulo de Proveedores|
+| [🧾 Funcionalidades_e_historias_de_usuario_de_Proveedores.pdf](./docs/por_modulo/proveedores/Funcionalidades_e_historias_de_usuario_de_Proveedores.pdf)| Funcionalidades e historias de usuario del módulo de Proveedores|
+| [🧾 Heurísticas_de_Nielsen_por_pantalla_-_Proveedores.pdf](./docs/por_modulo/proveedores/Heurísticas_de_Nielsen_por_pantalla_-_Proveedores.pdf)|Heurísticas de Nielsen por pantalla del módulo de Proveedores|
 | DOCUMENTOS MÓDULO RESERVAS|
-
+| [🧾 Análisis_funcional_AS-IS_-_módulo_Reservas.pdf](./docs/por_modulo/proveedores/Análisis_funcional_AS-IS_-_módulo_Proveedores.pdf) | Análisis funcional AS-IS del módulo Proveedores |
+| [🧾 Análisis_UX-UI_AS-IS_-_Reservas.pdf](./docs/por_modulo/proveedores/Análisis_UX-UI_AS-IS_-_Proveedores.pdf)| Análisis UX-UI AS-IS del módulo de Proveedores|
+| [🧾 Funcionalidades_e_historias_de_usuario_de_Reservas.pdf](./docs/por_modulo/reservas/Funcionalidades_e_historias_de_usuario_de_Reservas.pdf)| Funcionalidades e historias de usuario del módulo de Reservas|
+| [🧾 Heurísticas_de_Nielsen_por_pantalla_-_Reservas.pdf](./docs/por_modulo/reservas/Heurísticas_de_Nielsen_por_pantalla_-_RESERVAS.pdf)|Heurísticas de Nielsen por pantalla del módulo de Reservas|
 
 
 > 📌 *Los documentos están alojados en la carpeta `/docs` y se abren directamente en el navegador o se descargan según la configuración de GitHub.*

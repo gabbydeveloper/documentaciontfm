@@ -29,16 +29,28 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 | [🧾 Análisis_UX-UI_AS-IS_-_Productos.pdf](./docs/por_modulo/productos/Análisis_UX-UI_AS-IS_-_Productos.pdf)|Análisis UX-UI AS-IS del módulo de Productos|
 | [🧾 Funcionalidades_e_historias_de_usuario_de_Productos.pdf](./docs/por_modulo/productos/Funcionalidades_e_historias_de_usuario_de_Productos.pdf)|Funcionalidades e historias de usuario del módulo de Productos|
 | [🧾 Heurísticas_de_Nielsen_por_pantalla_-_Productos.pdf](./docs/por_modulo/productos/Heurísticas_de_Nielsen_por_pantalla_-_Productos.pdf)|Heurísticas de Nielsen por pantalla del módulo de Productos|
+| [🧾 Diagramas_de_casos_de_uso.pdf](./docs/por_modulo/productos/Diagramas_de_casos_de_uso.pdf)|Diagrama de casos de uso|
+| [🧾 Diagramas_de_actividades.pdf](./docs/por_modulo/productos/Diagramas_de_actividades.pdf)|Diagrama de actividades|
+| [🧾 Diagramas_de_clases.pdf](./docs/por_modulo/productos/Diagramas_de_clases.pdf)|Diagrama de clases|
+| [🧾 Wireframes.pdf](./docs/por_modulo/productos/Wireframes.pdf)|Wireframes|
 | DOCUMENTOS MÓDULO PROVEEDORES|
 | [🧾 Análisis_funcional_AS-IS_-_módulo_Proveedores.pdf](./docs/por_modulo/proveedores/Análisis_funcional_AS-IS_-_módulo_Proveedores.pdf) | Análisis funcional AS-IS del módulo Proveedores |
 | [🧾 Análisis_UX-UI_AS-IS_-_Proveedores.pdf](./docs/por_modulo/proveedores/Análisis_UX-UI_AS-IS_-_Proveedores.pdf)| Análisis UX-UI AS-IS del módulo de Proveedores|
 | [🧾 Funcionalidades_e_historias_de_usuario_de_Proveedores.pdf](./docs/por_modulo/proveedores/Funcionalidades_e_historias_de_usuario_de_Proveedores.pdf)| Funcionalidades e historias de usuario del módulo de Proveedores|
 | [🧾 Heurísticas_de_Nielsen_por_pantalla_-_Proveedores.pdf](./docs/por_modulo/proveedores/Heurísticas_de_Nielsen_por_pantalla_-_Proveedores.pdf)|Heurísticas de Nielsen por pantalla del módulo de Proveedores|
+| [🧾 Diagramas_de_casos_de_uso.pdf](./docs/por_modulo/proveedores/Diagramas_de_casos_de_uso.pdf)|Diagrama de casos de uso|
+| [🧾 Diagramas_de_actividades.pdf](./docs/por_modulo/proveedores/Diagramas_de_actividades.pdf)|Diagrama de actividades|
+| [🧾 Diagramas_de_clases.pdf](./docs/por_modulo/proveedores/Diagramas_de_clases.pdf)|Diagrama de clases|
+| [🧾 Wireframes.pdf](./docs/por_modulo/proveedores/Wireframes.pdf)|Wireframes|
 | DOCUMENTOS MÓDULO RESERVAS|
 | [🧾 Análisis_funcional_AS-IS_-_módulo_Reservas.pdf](./docs/por_modulo/proveedores/Análisis_funcional_AS-IS_-_módulo_Proveedores.pdf) | Análisis funcional AS-IS del módulo Proveedores |
 | [🧾 Análisis_UX-UI_AS-IS_-_Reservas.pdf](./docs/por_modulo/proveedores/Análisis_UX-UI_AS-IS_-_Proveedores.pdf)| Análisis UX-UI AS-IS del módulo de Proveedores|
 | [🧾 Funcionalidades_e_historias_de_usuario_de_Reservas.pdf](./docs/por_modulo/reservas/Funcionalidades_e_historias_de_usuario_de_Reservas.pdf)| Funcionalidades e historias de usuario del módulo de Reservas|
 | [🧾 Heurísticas_de_Nielsen_por_pantalla_-_Reservas.pdf](./docs/por_modulo/reservas/Heurísticas_de_Nielsen_por_pantalla_-_RESERVAS.pdf)|Heurísticas de Nielsen por pantalla del módulo de Reservas|
+| [🧾 Diagramas_de_casos_de_uso.pdf](./docs/por_modulo/reservas/Diagramas_de_casos_de_uso.pdf)|Diagrama de casos de uso|
+| [🧾 Diagramas_de_actividades.pdf](./docs/por_modulo/reservas/Diagramas_de_actividades.pdf)|Diagrama de actividades|
+| [🧾 Diagramas_de_clases.pdf](./docs/por_modulo/reservas/Diagramas_de_clases.pdf)|Diagrama de clases|
+| [🧾 Wireframes.pdf](./docs/por_modulo/reservas/Wireframes.pdf)|Wireframes|
 
 
 > 📌 *Los documentos están alojados en la carpeta `/docs` y se abren directamente en el navegador o se descargan según la configuración de GitHub.*

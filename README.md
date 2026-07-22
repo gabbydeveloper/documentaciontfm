@@ -190,7 +190,7 @@ Este enfoque sigue las recomendaciones de Pressman (2010) para proyectos de mode
 | Capa | Tecnología original | Tecnología objetivo |
 |------|----------------------|----------------------|
 | Backend | PHP, CodeIgniter | Java 21, Spring Boot |
-| Frontend | Sencha ExtJs | Angular 17+, TypeScript |
+| Frontend | Sencha ExtJs | Angular 21, TypeScript |
 | Arquitectura | Monolito | Microservicios |
 | Base de datos | MySQL 5.7 | MySQL 8.0 |
 | Seguridad | Sesiones nativas PHP | JWT + Spring Security |

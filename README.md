@@ -142,7 +142,7 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 | Documento | Descripción |
 |-----------|-------------|
 | 📦 GitHub Backend: https://github.com/mazgeco/geco-ms  | Código fuente del backend en Spring Boot (Java 21) |
-| 📦 GitHub Frontend: https://github.com/mazgeco/geco-a | Código fuente del frontend en Angular 17+ |
+| 📦 GitHub Frontend: https://github.com/mazgeco/geco-a | Código fuente del frontend en Angular 21 |
 | [🗃️ script_bd_schema_completo.sql](./src/script_bd_schema_completo.sql) | Script completo del esquema de base de datos |
 | [🗃️ script_bd_datos_iniciales.sql](./src/script_bd_datos_iniciales.sql) | Script de datos maestros iniciales |
 | [🗃️ script_bd_datos_prueba.sql](./src/script_bd_datos_prueba.sql) | Script de datos de prueba para desarrollo |

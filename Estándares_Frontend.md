@@ -1,8 +1,6 @@
 # Estándares Frontend
 Estos estándares han sido creados para generalizar la programación del Frontend del ERP Geco.
 ## Formas
-
-
 ### HTML para las formas
 ```html
 <!-- ====================================================== -->

@@ -1,16 +1,16 @@
 # Angular Moderno - Guía Completa (Resumen de Estudio)
 ## Índice
-[1. Crear aplicación Angular](#crear-aplicación-angular)
-[2. Comandos varios](#comandos-varios)
-[3. Data Binding](#data-binding)
-[4. Signals](#signals)
-[5. Input button y mostrar texto](#input-button-y-mostrar-texto)
-[6. Ciclo de vida de los componentes y eventos varios](#ciclo-de-vida-de-los-componentes-y-eventos-varios)
-[7. Inyección de dependencias](#inyección-de-dependencias)
-[8. Control flow](#control-flow)
-[9. Signals y RxJS](#signals-y-rxjs)
-[10. Signals vs RxJS](#signals-vs-rxjs)
-[11. Compilar con carpeta](#compilar-con-carpeta-dentro-del-dominio-principal)
+[1. Crear aplicación Angular](#crear-aplicación-angular)<br>
+[2. Comandos varios](#comandos-varios)<br>
+[3. Data Binding](#data-binding)<br>
+[4. Signals](#signals)<br>
+[5. Input button y mostrar texto](#input-button-y-mostrar-texto)<br>
+[6. Ciclo de vida de los componentes y eventos varios](#ciclo-de-vida-de-los-componentes-y-eventos-varios)<br>
+[7. Inyección de dependencias](#inyección-de-dependencias)<br>
+[8. Control flow](#control-flow)<br>
+[9. Signals y RxJS](#signals-y-rxjs)<br>
+[10. Signals vs RxJS](#signals-vs-rxjs)<br>
+[11. Compilar con carpeta](#compilar-con-carpeta-dentro-del-dominio-principal)<br>
 
 ## Crear aplicación Angular
 

@@ -65,7 +65,7 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 
 | Documento | Descripción |
 |-----------|-------------|
-| [🔍 Análisis_funcional_AS-IS_modulo_Proveedores.pdf](./docs/por_modulo/proveedores/Análisis_funcional_AS-IS_modulo_Proveedores.pdf) | Análisis funcional AS-IS del módulo de Proveedores |
+| [🔍 Análisis_funcional_AS-IS_modulo_Proveedores.pdf](./docs/por_modulo/proveedores/Analisis_funcional_AS-IS_modulo_Proveedores.pdf) | Análisis funcional AS-IS del módulo de Proveedores |
 | [🎨 Análisis_UX-UI_AS-IS_Proveedores.pdf](./docs/por_modulo/proveedores/Análisis_UX-UI_AS-IS_Proveedores.pdf) | Análisis UX-UI AS-IS del módulo de Proveedores |
 | [📝 Funcionalidades_e_historias_de_usuario_Proveedores.pdf](./docs/por_modulo/proveedores/Funcionalidades_e_historias_de_usuario_Proveedores.pdf) | Funcionalidades e historias de usuario del módulo de Proveedores |
 | [✅ Heurísticas_de_Nielsen_por_pantalla_Proveedores.pdf](./docs/por_modulo/proveedores/Heurísticas_de_Nielsen_por_pantalla_Proveedores.pdf) | Heurísticas de Nielsen por pantalla del módulo de Proveedores |

@@ -32,7 +32,7 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 | [📋 07_Requisitos_no_funcionales_por_módulo.pdf](./docs/07_Requisitos_no_funcionales_por_modulo.pdf) | Requisitos no funcionales por módulo (rendimiento, usabilidad, seguridad, etc.) |
 | [📐 08_Diagrama_Entidad-Relación_completo.pdf](./docs/08_Diagrama_Entidad-Relación_completo.pdf) | Diagrama Entidad-Relación completo del sistema |
 | [🧩 09_Arquitectura_funcional_TO-BE.pdf](./docs/09_Arquitectura_funcional_TO-BE.pdf) | Arquitectura funcional TO-BE: microservicios, capas y tecnologías |
-| [🔗 10_Definición_endpoints_API_RESTful.pdf](./docs/10_Definición_endpoints_API_RESTful.pdf) | Definición de endpoints RESTful por módulo |
+| [🔗 10_Definición_endpoints_API_RESTful.pdf](./docs/10_Definicion_endpoints_API_RESTful.pdf) | Definición de endpoints RESTful por módulo |
 | [👥 11_Validaciones_stakeholders_feedback.pdf](./docs/11_Validaciones_stakeholders_feedback.pdf) | Validaciones con stakeholders y feedback incorporado |
 | [🧪 12_Resultados_pruebas_integración_final.pdf](./docs/12_Resultados_pruebas_integración_final.pdf) | Resultados de pruebas de integración final |
 | [🚀 13_Manual_técnico_despliegue.pdf](./docs/13_Manual_técnico_despliegue.pdf) | Manual técnico de instalación y despliegue |

@@ -27,7 +27,7 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 | [🏗️ 02_Levantamiento_arquitectura_tecnológica_AS-IS.pdf](./docs/02_Levantamiento_arquitectura_tecnologica_AS-IS.pdf) | Levantamiento detallado de la arquitectura tecnológica AS-IS |
 | [⚡ 03_Evaluación_de_rendimiento_AS-IS.pdf](./docs/03_Evaluación_de_rendimiento_AS-IS.pdf) | Evaluación de rendimiento de endpoints críticos (simulación K6) |
 | [🔒 04_Revisión_de_seguridad_AS-IS.pdf](./docs/04_Revisión_de_seguridad_AS-IS.pdf) | Revisión de seguridad, vulnerabilidades y riesgos AS-IS |
-| [🗃️ 05_Análisis_del_modelo_de_datos_AS-IS.pdf](./docs/05_Análisis_del_modelo_de_datos_AS-IS.pdf) | Análisis del modelo de datos relacional (MySQL) |
+| [🗃️ 05_Análisis_del_modelo_de_datos_AS-IS.pdf](./docs/05_Analisis_del_modelo_de_datos_AS-IS.pdf) | Análisis del modelo de datos relacional (MySQL) |
 | [📊 06_Backlog_total_priorizado.pdf](./docs/06_Backlog_total_priorizado.pdf) | Backlog total priorizado de todos los módulos |
 | [📋 07_Requisitos_no_funcionales_por_módulo.pdf](./docs/07_Requisitos_no_funcionales_por_módulo.pdf) | Requisitos no funcionales por módulo (rendimiento, usabilidad, seguridad, etc.) |
 | [📐 08_Diagrama_Entidad-Relación_completo.pdf](./docs/08_Diagrama_Entidad-Relación_completo.pdf) | Diagrama Entidad-Relación completo del sistema |

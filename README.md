@@ -24,7 +24,7 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 |-----------|-------------|
 | [⌛ 00_Reingeniería Geco_Cronograma_baseline.pdf](./docs/00_Reingeniería%20Geco_Cronograma_baseline.pdf) | Diagrama Gantt del cronograma base del proyecto |
 | [📋 01_Inicio_y_planificación_del_proyecto.pdf](./docs/01_Inicio_y_planificación_del_proyecto.pdf) | Inicio, planificación, alcance y stakeholders del proyecto |
-| [🏗️ 02_Levantamiento_arquitectura_tecnológica_AS-IS.pdf](./docs/02_Levantamiento_arquitectura_tecnológica_AS-IS.pdf) | Levantamiento detallado de la arquitectura tecnológica AS-IS |
+| [🏗️ 02_Levantamiento_arquitectura_tecnológica_AS-IS.pdf](./docs/02_Levantamiento_arquitectura_tecnologica_AS-IS.pdf) | Levantamiento detallado de la arquitectura tecnológica AS-IS |
 | [⚡ 03_Evaluación_de_rendimiento_AS-IS.pdf](./docs/03_Evaluación_de_rendimiento_AS-IS.pdf) | Evaluación de rendimiento de endpoints críticos (simulación K6) |
 | [🔒 04_Revisión_de_seguridad_AS-IS.pdf](./docs/04_Revisión_de_seguridad_AS-IS.pdf) | Revisión de seguridad, vulnerabilidades y riesgos AS-IS |
 | [🗃️ 05_Análisis_del_modelo_de_datos_AS-IS.pdf](./docs/05_Análisis_del_modelo_de_datos_AS-IS.pdf) | Análisis del modelo de datos relacional (MySQL) |

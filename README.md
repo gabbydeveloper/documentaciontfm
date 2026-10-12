@@ -103,16 +103,16 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 
 | Documento | Descripción |
 |-----------|-------------|
-| [📋 Sprint_1_Planificación_y_backlog.pdf](./docs/sprints/Sprint_1_Planificación_y_backlog.pdf) | Planificación y backlog del Sprint 1 |
+| [📋 Sprint_1_Planificación_y_backlog.pdf](./docs/sprints/Sprint_1_Planificacion_y_backlog.pdf) | Planificación y backlog del Sprint 1 |
 | [📋 Sprint_1_Desarrollo_y_resultados.pdf](./docs/sprints/Sprint_1_Desarrollo_y_resultados.pdf) | Desarrollo y resultados del Sprint 1 |
 | [📋 Sprint_1_Feedback_usuarios_y_ajustes.pdf](./docs/sprints/Sprint_1_Feedback_usuarios_y_ajustes.pdf) | Feedback de usuarios y ajustes del Sprint 1 |
-| [📋 Sprint_2_Planificación_y_backlog.pdf](./docs/sprints/Sprint_2_Planificación_y_backlog.pdf) | Planificación y backlog del Sprint 2 |
+| [📋 Sprint_2_Planificación_y_backlog.pdf](./docs/sprints/Sprint_2_Planificacion_y_backlog.pdf) | Planificación y backlog del Sprint 2 |
 | [📋 Sprint_2_Desarrollo_y_resultados.pdf](./docs/sprints/Sprint_2_Desarrollo_y_resultados.pdf) | Desarrollo y resultados del Sprint 2 |
 | [📋 Sprint_2_Feedback_usuarios_y_ajustes.pdf](./docs/sprints/Sprint_2_Feedback_usuarios_y_ajustes.pdf) | Feedback de usuarios y ajustes del Sprint 2 |
-| [📋 Sprint_3_Planificación_y_backlog.pdf](./docs/sprints/Sprint_3_Planificación_y_backlog.pdf) | Planificación y backlog del Sprint 3 |
+| [📋 Sprint_3_Planificación_y_backlog.pdf](./docs/sprints/Sprint_3_Planificacion_y_backlog.pdf) | Planificación y backlog del Sprint 3 |
 | [📋 Sprint_3_Desarrollo_y_resultados.pdf](./docs/sprints/Sprint_3_Desarrollo_y_resultados.pdf) | Desarrollo y resultados del Sprint 3 |
 | [📋 Sprint_3_Feedback_usuarios_y_ajustes.pdf](./docs/sprints/Sprint_3_Feedback_usuarios_y_ajustes.pdf) | Feedback de usuarios y ajustes del Sprint 3 |
-| [📋 Sprint_4_Planificación_y_backlog.pdf](./docs/sprints/Sprint_4_Planificación_y_backlog.pdf) | Planificación y backlog del Sprint 4 |
+| [📋 Sprint_4_Planificación_y_backlog.pdf](./docs/sprints/Sprint_4_Planificacion_y_backlog.pdf) | Planificación y backlog del Sprint 4 |
 | [📋 Sprint_4_Desarrollo_y_resultados.pdf](./docs/sprints/Sprint_4_Desarrollo_y_resultados.pdf) | Desarrollo y resultados del Sprint 4 |
 | [📋 Sprint_4_Feedback_usuarios_y_ajustes.pdf](./docs/sprints/Sprint_4_Feedback_usuarios_y_ajustes.pdf) | Feedback de usuarios y ajustes del Sprint 4 |
 | [🧪 Resultados_pruebas_unitarias_todos_módulos.pdf](./docs/sprints/Resultados_pruebas_unitarias_todos_modulos.pdf) | Resultados de pruebas unitarias de todos los módulos |

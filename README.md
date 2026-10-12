@@ -128,12 +128,12 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 
 | Documento | Descripción |
 |-----------|-------------|
-| [🚶 User_journeys_completos_todos_módulos.pdf](./docs/ux_ui/User_journeys_completos_todos_módulos.pdf) | User journeys completos de todos los módulos |
-| [🗺️ Arquitectura_de_información_global.pdf](./docs/ux_ui/Arquitectura_de_información_global.pdf) | Arquitectura de información global del sistema |
-| [🧭 Mapa_de_navegación_global.pdf](./docs/ux_ui/Mapa_de_navegación_global.pdf) | Mapa de navegación global con estructura de menús |
-| [📊 Dashboards_gráficos_y_widgets_por_módulo.pdf](./docs/ux_ui/Dashboards_gráficos_y_widgets_por_módulo.pdf) | Dashboards, gráficos y widgets por módulo |
-| [👥 Validación_stakeholders_UX_UI.pdf](./docs/ux_ui/Validación_stakeholders_UX_UI.pdf) | Validación de UX/UI con stakeholders y mejoras incorporadas |
-| [🎨 Guía_estilos_design_system.pdf](./docs/ux_ui/Guía_estilos_design_system.pdf) | Guía de estilos y design system del ERP Geco |
+| [🚶 User_journeys_completos_todos_módulos.pdf](./docs/ux_ui/User_journeys_completos_todos_modulos.pdf) | User journeys completos de todos los módulos |
+| [🗺️ Arquitectura_de_información_global.pdf](./docs/ux_ui/Arquitectura_de_informacion_global.pdf) | Arquitectura de información global del sistema |
+| [🧭 Mapa_de_navegación_global.pdf](./docs/ux_ui/Mapa_de_navegacion_global.pdf) | Mapa de navegación global con estructura de menús |
+| [📊 Dashboards_gráficos_y_widgets_por_módulo.pdf](./docs/ux_ui/Dashboards_graficos_y_widgets_por_modulo.pdf) | Dashboards, gráficos y widgets por módulo |
+| [👥 Validación_stakeholders_UX_UI.pdf](./docs/ux_ui/Validacion_stakeholders_UX_UI.pdf) | Validación de UX/UI con stakeholders y mejoras incorporadas |
+| [🎨 Guía_estilos_design_system.pdf](./docs/ux_ui/Guia_estilos_design_system.pdf) | Guía de estilos y design system del ERP Geco |
 
 ---
 

@@ -116,7 +116,7 @@ El objetivo es transformar el ERP Geco —originalmente construido con PHP, Code
 | [📋 Sprint_4_Desarrollo_y_resultados.pdf](./docs/sprints/Sprint_4_Desarrollo_y_resultados.pdf) | Desarrollo y resultados del Sprint 4 |
 | [📋 Sprint_4_Feedback_usuarios_y_ajustes.pdf](./docs/sprints/Sprint_4_Feedback_usuarios_y_ajustes.pdf) | Feedback de usuarios y ajustes del Sprint 4 |
 | [🧪 Resultados_pruebas_unitarias_todos_módulos.pdf](./docs/sprints/Resultados_pruebas_unitarias_todos_modulos.pdf) | Resultados de pruebas unitarias de todos los módulos |
-| [🧪 Resultados_pruebas_integración_sprints.pdf](./docs/sprints/Resultados_pruebas_integración_sprints.pdf) | Resultados de pruebas de integración por sprint |
+| [🧪 Resultados_pruebas_integración_sprints.pdf](./docs/sprints/Resultados_pruebas_integracion_sprints.pdf) | Resultados de pruebas de integración por sprint |
 | [🧪 Resultados_pruebas_regresión.pdf](./docs/sprints/Resultados_pruebas_regresión.pdf) | Resultados de pruebas de regresión |
 | [🧪 Resultados_pruebas_usabilidad.pdf](./docs/sprints/Resultados_pruebas_usabilidad.pdf) | Resultados de pruebas de usabilidad con usuarios |
 | [📝 Actas_reuniones_seguimiento.pdf](./docs/sprints/Actas_reuniones_seguimiento.pdf) | Actas de reuniones de seguimiento |
